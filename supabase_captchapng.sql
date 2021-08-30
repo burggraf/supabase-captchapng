@@ -1,3 +1,4 @@
+create extension if not exists plv8; -- plv8 is required!
 drop function if exists supabase_captchapng;
 create or replace function public.supabase_captchapng(digits integer default 4, width integer default 80,height integer default 30)
    returns JSON language plv8 as
