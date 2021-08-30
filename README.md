@@ -34,5 +34,7 @@ Output:
 
 Send contents of `img` property to client, client displays it a tag such as `<img src="data:image/png;base64, iVBORw0KGgoAAAA...=="/>`:
 
-  
+Resulting image at cilent:
+
+![sample image](./test.png)
 
