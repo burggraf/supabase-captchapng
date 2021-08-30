@@ -1,0 +1,14 @@
+{
+  "name": "supabase-captchapng",
+  "version": "1.0.0",
+  "description": "port of captchapng to PLV8 for PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Burggraf",
+  "license": "ISC",
+  "dependencies": {
+    "captchapng": "^0.0.1"
+  }
+}
