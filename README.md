@@ -19,6 +19,6 @@ Output:
 Output is a JSON object with 2 properties:
 - num: the random number that was generated
 - img: a base64-encoded string that can be used in an `img` tag to display the captcha
-  - i.e. `<img src="data:image/png;base64, xxxxxxxxxxxxxxxxxxxxxxxxx=="/>
+  - i.e. `<img src="data:image/png;base64, xxxxxxxxxxxxxxxxxxxxxxxxx=="/>`
   
 
